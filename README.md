@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @suhashi23
-- 👀 I’m interested in Frontend Development,Competitive Programming e.t.c.
-- 🌱 I’m currently pursuing Btech from Bengal College of Engineering and Technology.
+- Software Engineer at CGI.
 
 <!---
 suhashi23/suhashi23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
